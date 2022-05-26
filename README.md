@@ -50,4 +50,7 @@ Steps that were followed:
 
 1. Logistic Regression
 2. K nearest neighbor 
-3. Random Forgest Regression
+3. Decision Tree
+4. XG Boost
+5. Random Forgest Regression
+6. 
